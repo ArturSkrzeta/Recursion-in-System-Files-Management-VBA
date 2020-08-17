@@ -11,3 +11,6 @@
 <p>As the sequence has the stack nature, the first function that ends its work up is at the very top. Another one that ends its work up is the second one that left on the top and so on till the mian function on the bottom.</p>
 
 <img src="images/stack.JPG">
+
+<h3>Code</h3>
+<p>The script walks through folders and subfolders and converts every encourted word document into PDF file. This purpose came out from a need of having pdf fiels of document for further mail distribution.</p>
