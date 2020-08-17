@@ -1,7 +1,7 @@
 <h2>Recursion in Files Management VBA</h2>
 <h3>Intro</h3>
 <p>Being tried of figuring theoretical examples out of recursion application, I decided to go ahead and apply recursion for walking through folders and processing files as per need.</p>
-<p>Recursion uses stack schema where each next function is being launched on the top of the previous one. Closing functions goes the opposite way - from top to bottom.</p>
+<p>Recursion uses stack schema where each following function is being launched on the top of the previous one. Closing functions goes the opposite way - from top to bottom.</p>
 <img src="images/stack_schema.JPG">
  
 <h3>Demo</h3>
